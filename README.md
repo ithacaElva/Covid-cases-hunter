@@ -1,5 +1,5 @@
 # Covid-cases-hunter
-## This is an in-class kaggle competition. We are given features x of several countries (such as population, area, etc.), and want to predict y, the log of the number positive cases of a given country. We use the mean squared loss (MSE) of the test data as the evaluation metric (lower is better). Here, I tried several regression models, including linear regression models, logistic regression models, kernel models, random forest, lightgbm and Xgboost. And Xgboost turns to be the best models with the lowest test MSE.
+This is an in-class kaggle competition. We are given features x of several countries (such as population, area, etc.), and want to predict y, the log of the number positive cases of a given country. We use the mean squared loss (MSE) of the test data as the evaluation metric (lower is better). Here, I tried several regression models, including linear regression models, logistic regression models, kernel models, random forest, lightgbm and Xgboost. And Xgboost turns to be the best models with the lowest test MSE.
 
 # Dataset description
 ## Dataset splits
